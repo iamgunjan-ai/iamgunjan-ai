@@ -1,4 +1,4 @@
-![MasterHead](https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108)
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Data Analyst and frontend developer from India</h3>
 <img src="pexels-lukas-669610.jpg" alt="Data analyst">
